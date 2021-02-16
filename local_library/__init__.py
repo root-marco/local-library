@@ -1,1 +1,0 @@
-# __init__.py é um arquivo em branco que instrui o Python a tratar esse diretório como um pacote Python.
