@@ -5,4 +5,4 @@ from books import models
 class BooksSerializer(serializers.ModelSerializer):
 	class Meta:
 		model = models.Books
-		field = '__all__'
+		fields = '__all__'
